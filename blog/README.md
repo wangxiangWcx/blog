@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: 博客主页a
 heroImage: /logo.svg
-heroText: 你博客的名称 #TODO: 你博客的名称
+heroText: 妄想 #TODO: 你博客的名称
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
 projects:
